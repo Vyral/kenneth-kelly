@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Conforming Loan Limit Increases
-date: 2018-12-18 20:25:52
+date: 2018-12-18 20:25:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s how conforming loan limit increases affect you.
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/loan-limits-email.jpg
-youtube_code: y98NrdR5AFI
+youtube_code: G_9Wde-TNvk
 ---
 
 {% include youtube.html %}
