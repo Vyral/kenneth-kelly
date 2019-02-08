@@ -21,7 +21,7 @@ youtube_code: lDZjLOkxhsQ
 
 {% include youtube.html %}
 
-Today I’m excited to launch the first half of a two-part series covering the top 10 questions I hear about VA loans. We’re going to share five of these common queries today, and will finish with the remaining five in our next message.
+Today I’m excited to launch the first half of a two-part series covering the top 10 questions I hear about VA loans. We’re going to share five of these common queries today and finish with the remaining five in our next message.
 
 **1. What kind of credit score do you need to qualify for a VA loan?** Believe it or not, the VA does not set a specific threshold for credit scores. Instead, they allow affiliated lenders to set a parameter they believe to be appropriate. So if you’re curious about applying for a loan, yourself, connect with a local lender to determine whether you’ll qualify. Typically, though, the minimum limit will range between 580 and 640.
 
