@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Answering Your Top 10 Questions About VA Loans: Part 1'
-date: 2019-02-07 22:05:02
+date: 2019-02-07 22:05:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/questions-part-1-youtube.jpg
+youtube_alternate_image: /uploads/questions-part-1-email.jpg
 youtube_code: lDZjLOkxhsQ
 ---
 
