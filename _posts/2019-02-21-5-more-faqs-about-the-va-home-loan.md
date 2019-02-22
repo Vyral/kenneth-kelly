@@ -25,7 +25,7 @@ Continuing from last time, here are the last five questions featured in our seri
 
 **6. “Can I use my VA loan to buy raw land?”** I get this question nearly every single day, and the answer is no. The VA loan does not finance the purchase of raw land all by itself. Here in Texas, we have a wonderful program called the Texas Veterans Land Board, which does finance raw land for veterans. If you’re from out of state, you’ll have to look into whether your own state has such a program.
 
-**7. “How long do I have to live in the house as my primary residence?”** The VA program doesn’t really set a rule on that, but my advice to you is to stay at least 12 months in the home and fully establish your residence as your primary residence, meaning that you receive you live, operate, and receive your mail there.
+**7. “How long do I have to live in the house as my primary residence?”** The VA program doesn’t really set a rule on that, but my advice to you is to stay at least 12 months in the home and fully establish your residence as your primary residence, meaning that you live, operate, and receive your mail there.
 
 **8. “Can I only use my VA loan once?”** A veteran can use their VA eligibility to buy a home over and over and over, as long as the previous house has been sold or paid off. Some individuals may even be eligible to buy two houses at once.
 
