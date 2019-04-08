@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How USDA Loan Changes Can Now Be Used for Manufactured Homes
+title: USDA Loan Changes Can Now Be Used for Manufactured Homes
 date: 2019-04-05 17:44:00
 tags:
   - Home Buyer Tips
