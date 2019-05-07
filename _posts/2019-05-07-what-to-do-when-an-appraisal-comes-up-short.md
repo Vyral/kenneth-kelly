@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What to Do When an Appraisal Comes Up Short
-date: 2019-05-07 19:48:39
+date: 2019-05-07 19:48:00
 tags:
   - Home Buyer Tips
 excerpt: >-
