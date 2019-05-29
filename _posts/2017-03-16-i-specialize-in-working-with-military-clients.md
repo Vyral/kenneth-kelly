@@ -21,7 +21,7 @@ blogger_orig_url: 'http://www.thevaloanguy.com/2017/03/i-specialize-in-working-w
 
 {% include youtube.html %}I offer all types of mortgages, but my specialty is making sure military personnel can buy their dream homes.
 
-It doesn't cost a penny to talk….[so call me right now and I will answer your questions!](http://texas-vet-loans.com/contact/)
+It doesn't cost a penny to talk….[so call me right now and I will answer your questions\!](http://texas-vet-loans.com/contact/)
 
 [Apply Now](https://preapp1003.com/id/Patrick-Fitzgerald/)
 
