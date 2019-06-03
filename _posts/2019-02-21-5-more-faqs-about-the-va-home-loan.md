@@ -8,7 +8,7 @@ excerpt: >-
   In today’s second part of our series in which we address the top 10 most
   frequently asked questions, I’ll address questions six through 10.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2019/February/The+VA+Loan+Guy-+5+More+FAQs+about+the+VA+Home+Loan.mp4
+  https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+5+More+FAQs+about+the+VA+Home+Loan.mp4
 pullquote: >-
   A good point of advice is to always check with the lender you’re working with,
   as some lenders have additional rules they impose on VA loans.
