@@ -13,8 +13,8 @@ pullquote: I’ve had a short appraisal three times in the last 30 days.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/short-appraisals-email.jpg
-youtube_code: fq3_ZHqwAvo
+youtube_alternate_image: /uploads/what-to-do-when-appraisals-come-up-short-email.jpg
+youtube_code: 3SVsI4ks0q4
 ---
 
 {% include youtube.html %}
