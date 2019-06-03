@@ -8,7 +8,7 @@ excerpt: >-
   We get a lot of questions about VA loans, and we’re going to answer some of
   them today.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2019/January/The+VA+Loan+Guy-+Answering+Your+Top+10+Questions+About+VA+Loans-+Part+1.mp4
+  https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Answering+Your+Top+10+Questions+About+VA+Loans-+Part+1.mp4
 pullquote: >-
   If you have an experienced professional to guide you, it shouldn’t be too
   difficult to secure a VA loan.
