@@ -8,7 +8,7 @@ excerpt: >-
   An appraisal that comes up short can completely derail a real estate
   transaction. Here’s how you can avoid it.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2019/May/The+VA+Loan+Guy-+What+to+Do+When+an+Appraisal+Comes+Up+Short+(1).mp4
+  https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+What+to+Do+When+an+Appraisal+Comes+Up+Short.mp4
 pullquote: I’ve had a short appraisal three times in the last 30 days.
 enclosure_type: video/mp4
 enclosure_time:
