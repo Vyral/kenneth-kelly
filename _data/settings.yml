@@ -1,5 +1,5 @@
 audit_header: false
-title: Guild Mortgage with Patrick Fitzgerald
+title: Academy Mortgage with Patrick Fitzgerald
 description: >-
   Patrick Fitzgerald, the VA Loan Guy, is located in San Antonio, Texas and is a
   true “One Stop Lender”. We originate, underwrite, and close all types of
@@ -13,8 +13,6 @@ custom_links:
     url: /video-library/
   - title: About Me
     url: https://www.linkedin.com/in/pat-fitzgerald-75207524
-  - title: TV Spots
-    url: /tv-spots/
 client:
   name: Patrick Fitzgerald
   license_number: NMLS 218508
@@ -27,15 +25,15 @@ client:
     people are misinformed about this program, and I am here to make sure that
     you are told the “straight facts”.
   market:
-  brand: Guild Mortgage
+  brand: Academy Mortgage
   brokerage:
-  address: '401 E. Sonterra Blvd, Ste 175<br>San Antonio, TX 78258'
-  phone: 210-215-4400
-  phone_type: Mobile
-  phone2: 210-625-3478
+  address: '211 N. Loop 1604 E. Suite 260, San Antonio, TX 78232'
+  phone: 210-399-0410
+  phone_type: Office
+  phone2: 210-338-8552
   phone2_type: Fax
-  email: pfitzgerald@guildmortgage.net
-  url: 'http://Texas-Vet-Loans.com'
+  email: pat.fitzgerald@AcademyMortgage.com
+  url: 'https://academymortgage.com'
 CTAs:
   first_CTA_text: Apply Now
   first_CTA_URL: 'https://preapp1003.com/id/Patrick-Fitzgerald/'
@@ -75,7 +73,6 @@ socials:
   facebook_url: >-
     https://www.facebook.com/Free-help-for-TX-Real-Estate-Agents-119248468091989/
   linkedin_url: 'https://www.linkedin.com/in/pat-fitzgerald-75207524?trk=hp-identity-photo'
-  gplus_url: 'https://plus.google.com/u/0/b/111020914519161365428'
   youtube_url: 'https://www.youtube.com/channel/UCeMtPq_pkOYzq_twNGaQz8g'
   twitter_url: 'https://twitter.com/VALoanExpert'
   instagram_url:
@@ -110,7 +107,7 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#262a82'
+  brand_color: '#015294'
   theme_color: '#999999'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'

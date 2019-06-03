@@ -7,7 +7,7 @@
 		{% if site.data.settings.audit_header == true %}
 			{% include audit.html %}
 		{% endif %}
-		{% include video-header.html %}
+		<!-- {% include video-header.html %} -->
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-sm-12">
@@ -17,13 +17,13 @@
 				</div>
 			</div>
 			<div class="row ">
-				<div class="col-sm-12 visible-xs visible-sm sidebar">
+				<div class="col-sm-12 visible-xs visible-sm sidebar navspace">
 					{% include socials.html %}
 					{% include search-box.html %}
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-lg-12">
+				<div class="col-lg-12 navspace">
 					{{ content }}
 				</div>
 
