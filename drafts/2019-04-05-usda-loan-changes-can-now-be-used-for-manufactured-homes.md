@@ -11,8 +11,8 @@ pullquote: 'Each company has slightly different rules, so make sure you verify w
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/usda-email.jpg
-youtube_code: BYLqVTwBe8A
+youtube_alternate_image: /uploads/usda-loan-changes-email.jpg
+youtube_code: 2_TAErL6wfE
 ---
 
 {% include youtube.html %}
