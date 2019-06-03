@@ -8,7 +8,7 @@ excerpt: >-
   If you’re deciding between getting pre-qualified or getting pre-approved, the
   choice is clear. Here’s why.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2019/March/The+VA+Loan+Guy-+Pre-Approval+vs.+Pre-Qualification.mp4
+  https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Pre-Approval+vs.+Pre-Qualification.mp4
 pullquote: >-
   A pre-approval might take a few days longer, but it can save you a lot of
   trouble.
