@@ -6,7 +6,7 @@ tags:
   - Home Buyer Tips
 excerpt: You can now pay zero down for a pre-owned manufactured home. Here’s why.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2019/April/The+VA+Loan+Guy-+How+USDA+Loan+Changes+Can+Now+Be+Used+for+Manufactured+Homes.mp4
+  https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-The+VA+Loan+Guy-+USDA+Loan+Changes+Can+Now+Be+Used+for+Manufactured+Homes.mp4
 pullquote: 'Each company has slightly different rules, so make sure you verify with yours.'
 enclosure_type: video/mp4
 enclosure_time:
