@@ -12,7 +12,7 @@ custom_links:
   - title: Video Library
     url: /video-library/
   - title: About Me
-    url: https://www.linkedin.com/in/pat-fitzgerald-75207524
+    url: 'https://www.linkedin.com/in/pat-fitzgerald-75207524'
 client:
   name: Patrick Fitzgerald
   license_number: NMLS 218508
@@ -39,7 +39,7 @@ CTAs:
   first_CTA_URL: 'https://preapp1003.com/id/Patrick-Fitzgerald/'
 emma_form:
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/001.jpg
+  - CTA_image_path: /uploads/bigstock-mortgage-online-application-fo-296882188.jpg
     CTA_title: Online Loan Application
     CTA_text: >-
       Using our online loan application, you can take your time and complete
