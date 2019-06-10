@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 1 Critical Step Unmarried Homebuyers Must Take
-date: 2018-12-03 22:27:46
+date: 2018-12-03 22:27:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -9,15 +9,15 @@ excerpt: >-
   take on this responsibility together, they must be prepared for the
   difficulties that may arise.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2018/December/The+VA+Loan+Guy-+1+Critical+Step+Unmarried+Homebuyers+Must+Take.mp4
+  https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+1+Critical+Step+Unmarried+Homebuyers+Must+Take.mp4
 pullquote: >-
   Meeting with a lawyer, drawing up an agreement, and having each of your
   signatures notarized could save you a lot of time, money, and hassle later on.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/single-people-purchasing-home-email.jpg
-youtube_code: CKLbyya4OtI
+youtube_alternate_image: /uploads/unmarried-homebuyers-email.jpg
+youtube_code: vo1F-3fOGwo
 ---
 
 {% include youtube.html %}
