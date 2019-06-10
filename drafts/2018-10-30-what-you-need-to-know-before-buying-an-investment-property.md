@@ -1,22 +1,22 @@
 ---
 layout: post
 title: What You Need to Know Before Buying an Investment Property
-date: 2018-10-30 18:51:42
+date: 2018-10-30 18:51:00
 tags:
   - Home Buyer Tips
 excerpt: >-
   Do you know what it takes to buy an investment property? Let’s review the
   requirements you’ll need to meet before making such a purchase.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2018/October/The+VA+Loan+Guy-+What+You+Need+to+Know+Before+Buying+an+Investment+Property.mp4
+  https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+What+You+Need+to+Know+Before+Buying+an+Investment+Property.mp4
 pullquote: >-
   I highly encourage anyone able to meet the stipulations we’ve discussed today
   to pursue building wealth through real estate.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/buying-investment-property-email.jpg
-youtube_code: NQRbTJOmUxk
+youtube_alternate_image: /uploads/what-to-know-before-buying-investment-property-email.jpg
+youtube_code: 7aepOB_vcdI
 ---
 
 {% include youtube.html %}
