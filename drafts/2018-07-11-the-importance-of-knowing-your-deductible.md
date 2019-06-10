@@ -1,22 +1,22 @@
 ---
 layout: post
 title: The Importance of Knowing Your Deductible
-date: 2018-07-11 15:28:50
+date: 2018-07-11 15:28:00
 tags:
   - Home Buyer Tips
 excerpt: >-
   Knowing your deductible is incredibly important. So if you aren’t already
   informed as to what yours is, you need to find out.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2018/July/The+VA+Loan+Guy-+The+Importance+of+Knowing+Your+Deductible.mp4
+  https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+The+Importance+of+Knowing+Your+Deductible.mp4
 pullquote: >-
   The last thing you want to do is cut corners to save a few pennies up front,
   only to wind up paying for a major expense later on as a result.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/deductible-email.jpg
-youtube_code: WSaGXnZchZg
+youtube_alternate_image: /uploads/importance-of-knowing-deductible-email.jpg
+youtube_code: HwxAdj6IjXc
 ---
 
 {% include youtube.html %}
