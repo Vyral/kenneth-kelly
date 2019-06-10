@@ -8,7 +8,7 @@ excerpt: >-
   There are a number of reasons why having a home warranty policy is so critical
   for today’s homeowners. Today I would like to highlight just a few.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2018/June/The+VA+Loan+Guy-+Why+Home+Warranties+Are+so+Important.mp4
+  https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Why+Home+Warranties+Are+so+Important.mp4
 pullquote: >-
   These policies ensure that if, and when, something breaks down or stops
   working in your home, you will be protected against what could otherwise be a
@@ -16,8 +16,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/home-warranties-email.jpg
-youtube_code: _QKJ6tuUkhs
+youtube_alternate_image: /uploads/home-warranties-are-important-email.jpg
+youtube_code: UE5knBnd9w8
 ---
 
 {% include youtube.html %}
