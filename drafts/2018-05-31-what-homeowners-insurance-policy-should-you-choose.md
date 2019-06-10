@@ -8,7 +8,7 @@ excerpt: >-
   What homeowner’s insurance policy should you choose? I am here to help you
   decide.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2018/May/The+VA+Loan+Guy-+What+Homeowners+Insurance+Policy+Should+You+Choose%253F.mp4
+  https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+What+Homeowners+Insurance+Policy+Should+You+Choose_.mp4
 pullquote: >-
   You should select a policy with a 1% deductible even if it has a higher rate
   because if something does happen a higher deductible could mean you spend
@@ -16,8 +16,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/insurance-email.jpg
-youtube_code: MFzjL8xCMoE
+youtube_alternate_image: /uploads/homeowners-insurance-policy-email.jpg
+youtube_code: EchnBEGM3mE
 ---
 
 {% include youtube.html %}
