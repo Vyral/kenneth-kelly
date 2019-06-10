@@ -1,22 +1,22 @@
 ---
 layout: post
 title: What Credit Repair Companies Do to Fix Your Score
-date: 2018-07-23 18:12:39
+date: 2018-07-23 18:12:00
 tags:
   - Home Buyer Tips
 excerpt: >-
   Do you know how credit repair companies work? Today I am explaining what they
   do to fix your score.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2018/July/The+VA+Loan+Guy-+What+Credit+Repair+Companies+Do+to+Fix+Your+Score.mp4
+  https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+What+Credit+Repair+Companies+Do+to+Fix+Your+Score.mp4
 pullquote: >-
   Credit repair companies basically bombard the credit bureaus with letters
   questioning every negative thing on your credit report.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/credit-repait-email.jpg
-youtube_code: BfZxYEYaPJQ
+youtube_alternate_image: /uploads/what-credit-repair-companies-do-to-fix-score-email.jpg
+youtube_code: e1YAEzOR_eE
 ---
 
 {% include youtube.html %}
