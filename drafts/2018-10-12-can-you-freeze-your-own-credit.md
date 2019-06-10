@@ -8,15 +8,15 @@ excerpt: >-
   A new federal law was recently passed that allows you to freeze your credit at
   any time for free.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2018/October/The+VA+Loan+Guy-+How+You+Can+Freeze+Your+Own+Credit.mp4
+  https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Can+You+Freeze+Your+Own+Credit_.mp4
 pullquote: >-
   A new federal law was recently passed that allows you to freeze your credit if
   you want to.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/freeze.jpg
-youtube_code: bKB5EQWW-YU
+youtube_alternate_image: /uploads/freeze-your-credit-email-1.jpg
+youtube_code: oWNc33ZFseA
 ---
 
 {% include youtube.html %}
