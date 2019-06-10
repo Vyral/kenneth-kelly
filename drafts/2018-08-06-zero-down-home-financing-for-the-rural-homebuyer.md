@@ -8,13 +8,13 @@ excerpt: >-
   If you’re unsure about what a USDA home loan is for or how it works, this
   overview should give you a clearer idea.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2018/August/The+VA+Loan+Guy-+A+Zero-Down+Home+Financing+for+the+Rural+Homebuyer.mp4
+  https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Zero-Down+Home+Financing+for+the+Rural+Homebuyer.mp4
 pullquote: The USDA home loan program is a great product if used properly.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/usda-loan-email.jpg
-youtube_code: yyhUq-X7a9k
+youtube_alternate_image: /uploads/zero-down-home-financing-email.jpg
+youtube_code: x2r17aMqqnM
 ---
 
 {% include youtube.html %}
