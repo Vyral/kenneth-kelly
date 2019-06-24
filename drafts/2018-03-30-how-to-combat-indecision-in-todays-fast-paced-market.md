@@ -8,7 +8,7 @@ excerpt: >-
   In today’s fast-paced market, buyers must be able to make quick decisions.
   However, there is one option that can help give them more time to think.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2018/March/The+VA+Loan+Guy-+How+to+Combat+Indecision+in+Today%2527s+Fast-Paced+Market.mp4
+  https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+How+to+Combat+Indecision+in+Today's+Fast-Paced+Market.mp4
 pullquote: I truly think this is a great strategy for undecided buyers to utilize.
 enclosure_type: video/mp4
 enclosure_time:
