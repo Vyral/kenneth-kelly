@@ -6,13 +6,13 @@ tags:
   - Real Estate
 excerpt: Having your own representation in real estate matters. Here’s why.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2018/February/The+VA+Loan+Guy-+Why+Should+You+Work+With+My+Own+Realtor%253F.mp4
+  https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Why+Should+You+Work+With+Your+Own+Realtor_.mp4
 pullquote: A buyer’s agent will represent you and only you.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/work-with-an-agent-email-guild.jpg
-youtube_code: qzofkoWL0hA
+youtube_alternate_image: /uploads/your-own-realtor-email.jpg
+youtube_code: SZc_Bhnqvcc
 ---
 
 {% include youtube.html %}
