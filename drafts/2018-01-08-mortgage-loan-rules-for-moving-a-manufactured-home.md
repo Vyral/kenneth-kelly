@@ -8,15 +8,15 @@ excerpt: >-
   There are specific rules regarding the moving and re-installation of
   manufactured homes that many don’t know about. Learn about them here.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2018/January/The+VA+Loan+Guy-+Moving+a+Manufactured+Home.mp4
+  https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Mortgage+Loan+Rules+for+Moving+a+Manufactured+Home.mp4
 pullquote: >-
   Only VA loans, the loan option for veterans, allow the option to move a home
   once after its initial installation.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/moving-manufactured-homes-email.jpg
-youtube_code: 1LBPTduFqd0
+youtube_alternate_image: /uploads/moving-manufactured-homes-email-1.jpg
+youtube_code: uUXU_YM-4gs
 ---
 
 {% include youtube.html %}
