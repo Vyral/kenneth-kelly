@@ -8,13 +8,13 @@ excerpt: >-
   Need a home improvement loan to make some upgrades? I know where you can get
   one.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2017/December/The+VA+Loan+Guy-+Where+Can+Veterans+Get+a+Home+Improvement+Loan%253F.mp4
+  https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Where+Can+Veterans+Get+a+Home+Improvement+Loan_.mp4
 pullquote: You don’t even need a down payment with this loan.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/home-improvements-email.jpg
-youtube_code: mwWt0NNZn-4
+youtube_alternate_image: /uploads/veterans-home-improvement-loans-email.jpg
+youtube_code: fAhtp5Dux5M
 ---
 
 {% include youtube.html %}
