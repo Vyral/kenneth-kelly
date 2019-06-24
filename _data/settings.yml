@@ -28,7 +28,7 @@ client:
   brand: Academy Mortgage
   brokerage:
   address: '211 N. Loop 1604 E. Suite 260, San Antonio, TX 78232'
-  phone: 210-399-0410
+  phone: 210-215-4440
   phone_type: Office
   phone2: 210-338-8552
   phone2_type: Fax
@@ -37,6 +37,8 @@ client:
 CTAs:
   first_CTA_text: Apply Now
   first_CTA_URL: 'https://preapp1003.com/id/Patrick-Fitzgerald/'
+  second_CTA_text: Apply Now
+  second_CTA_URL: 'https://preapp1003.com/id/Patrick-Fitzgerald/'
 emma_form:
 sidebar_CTA:
   - CTA_image_path: /uploads/bigstock-mortgage-online-application-fo-296882188.jpg
@@ -109,6 +111,7 @@ images:
 site_colors:
   brand_color: '#015294'
   theme_color: '#999999'
+  accent_color: '#F25D23'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'

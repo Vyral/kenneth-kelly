@@ -2900,6 +2900,22 @@ form select {
     text-decoration: none;
     color: #015294; }
 
+.cta2 {
+  background: #F25D23;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 2rem;
+  font-weight: 300; }
+  .cta2:hover {
+    background: #eeeeee;
+    color: #015294; }
+  .cta2:active {
+    text-decoration: none;
+    color: #015294; }
+  .cta2:focus {
+    text-decoration: none;
+    color: #015294; }
+
 .footer {
   color: #fff; }
   .footer .attribution svg {
