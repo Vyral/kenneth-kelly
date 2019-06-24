@@ -8,13 +8,13 @@ excerpt: >-
   How can you use your loan to buy a multi-family home? Here’s what you need to
   know.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2017/November/The+VA+Loan+Guy-+A+Unique+Opportunity+for+Veteran+Homebuyers.mp4
+  https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+A+Unique+Opportunity+for+Veteran+Homebuyers.mp4
 pullquote: This is a smart investment strategy.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/vets-multi-fam-property-email-2.jpg
-youtube_code: 7lioYYtkhK4
+youtube_alternate_image: /uploads/unique-opportunity-for-vet-homebuyers-email.jpg
+youtube_code: B1wfSR0GLYw
 ---
 
 {% include youtube.html %}
@@ -31,4 +31,4 @@ If you have VA disability, you will also have a reduction in your property taxes
 
 **There are a lot of ways we can make this work, even if you don’t have any prior experience as a landlord.**
 
-If you have any questions about this program or about anything else, give me a call or send me an email today. It doesn’t cost a penny to talk. I look forward to hearing from you soon!
+If you have any questions about this program or about anything else, give me a call or send me an email today. It doesn’t cost a penny to talk. I look forward to hearing from you soon\!
