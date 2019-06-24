@@ -8,13 +8,13 @@ excerpt: >-
   Property surveys are used by mortgage companies to list and record key details
   of a property that’s being bought or built.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2017/November/The+VA+Loan+Guy-+What+You+Need+to+Know+About+Property+Surveys.mp4
+  https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+What+You+Need+to+Know+About+Property+Surveys.mp4
 pullquote: Property surveys show several important things.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/property-survey-email-2.jpg
-youtube_code: ijzDCr_8Dmo
+youtube_alternate_image: /uploads/property-surveys-email.jpg
+youtube_code: XmbfibrDvpQ
 ---
 
 {% include youtube.html %}
