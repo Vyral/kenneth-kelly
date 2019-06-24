@@ -8,15 +8,15 @@ excerpt: >-
   Interest rate reduction refinances can offer you a reduced house payment, but
   they also come with serious downsides.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2017/October/The+VA+Loan+Guy-+Is+Using+an+IRRL+a+Smart+Move+for+You%253F.mp4
+  https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Is+Using+an+IRRL+a+Smart+Move+for+You_.mp4
 pullquote: >-
   In my opinion, these fast and low refinance offers very rarely make sense to
   pursue.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/irrl-email-3.jpg
-youtube_code: frniOTalob4
+youtube_alternate_image: /uploads/irrl-email-4.jpg
+youtube_code: otOwPXLYGPU
 ---
 
 {% include youtube.html %}
@@ -43,4 +43,4 @@ Did they give him a lower house payment? Yes—it was about $137 per month. The 
 
 Do these fast and low refinance offers make sense to pursue? In my opinion, very rarely.
 
-If you have any questions about IRRLs, don’t hesitate to reach out to me. I’d be happy to help you!
+If you have any questions about IRRLs, don’t hesitate to reach out to me. I’d be happy to help you\!
