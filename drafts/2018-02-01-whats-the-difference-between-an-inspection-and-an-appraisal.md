@@ -8,15 +8,15 @@ excerpt: >-
   What is the difference between an inspection and an appraisal? Today, I’ll
   explain how they differ.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2018/February/The+VA+Loan+Guy-+Whats+the+Difference+Between+an+Inspection+and+an+Appraisal%253F.mp4
+  https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Whats+the+Difference+Between+an+Inspection+and+an+Appraisal_.mp4
 pullquote: >-
   The VA does not require a veteran to get an inspection of the home they’re
   buying.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/appraisal-vs--inspection-email-guild.jpg
-youtube_code: JRhBnrjmW3s
+youtube_alternate_image: /uploads/difference-between-appraisal-vs--inspection-email.jpg
+youtube_code: F7ueruQGNj8
 ---
 
 {% include youtube.html %}
@@ -29,7 +29,7 @@ Many veterans call me believing that the VA is going to do an inspection on thei
 
 {% include pullquote.html %}
 
-An inspector, on the other hand, couldn’t care less about the value of the property. **Inspectors are there to measure the home’s functionality.** In other words, the inspector’s goal is to make sure that the air conditioning and heating system is working, any appliances are fully functional, the electrical framework is up to scratch, and that there are no safety issues in the house. The inspector will generate a 35- to 40-page document with pictures of anything of interest found that needs to be addressed.
+An inspector, on the other hand, couldn’t care less about the value of the property. **Inspectors are there to measure the home’s functionality.**&nbsp;In other words, the inspector’s goal is to make sure that the air conditioning and heating system is working, any appliances are fully functional, the electrical framework is up to scratch, and that there are no safety issues in the house. The inspector will generate a 35- to 40-page document with pictures of anything of interest found that needs to be addressed.
 
 To be clear, the VA does not require a veteran to get an inspection of the home they’re buying. Personally, I would never buy a house without an inspection, but under the terms of the VA loan, they’re not necessary.
 
