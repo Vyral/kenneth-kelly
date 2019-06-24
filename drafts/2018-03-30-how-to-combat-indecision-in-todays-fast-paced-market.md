@@ -13,8 +13,8 @@ pullquote: I truly think this is a great strategy for undecided buyers to utiliz
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/fast-moving-market-email-guild.jpg
-youtube_code: nTJwc_NX4OQ
+youtube_alternate_image: /uploads/fast-paced-market-email.jpg
+youtube_code: e61V44ANzRI
 ---
 
 {% include youtube.html %}
