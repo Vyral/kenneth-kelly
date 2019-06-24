@@ -8,15 +8,15 @@ excerpt: >-
   Not checking if a property you want to buy is located within a flood zone can
   end up costing you.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2018/March/The+VA+Loan+Guy-+Is+Your+Future+Property+Located+in+a+Flood+Zone%253F.mp4
+  https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-The+VA+Loan+Guy-+Is+Your+Future+Property+Located+in+a+Flood+Zone_.mp4
 pullquote: >-
   You should always research if a property is located within a flood zone before
   you buy it.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/flood-insurance-email-guild.jpg
-youtube_code: SNVXC6dqCuQ
+youtube_alternate_image: /uploads/flood-insurance-email-4.jpg
+youtube_code: EvNLn9RRUuQ
 ---
 
 {% include youtube.html %}
