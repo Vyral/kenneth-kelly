@@ -28,7 +28,7 @@ client:
   brand: Academy Mortgage
   brokerage:
   address: '211 N. Loop 1604 E. Suite 260, San Antonio, TX 78232'
-  phone: 210-215-4440
+  phone: 210-215-4400
   phone_type: Office
   phone2: 210-338-8552
   phone2_type: Fax
@@ -111,7 +111,7 @@ images:
 site_colors:
   brand_color: '#015294'
   theme_color: '#999999'
-  accent_color: '#F25D23'
+  accent_color: '#f25d23'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
