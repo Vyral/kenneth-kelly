@@ -25,7 +25,7 @@ blogger_orig_url: 'http://www.thevaloanguy.com/2017/07/manufactured-homes-made-s
 
 It doesn't cost a penny to talk….[so call me right now and I will answer your questions\!](http://texas-vet-loans.com/contact/)
 
-[Apply Now](https://preapp1003.com/id/Patrick-Fitzgerald/)
+[Apply Now](https://academymortgage.com/about-us/apply-now){: target="_blank"}
 
 If you’re considering using a VA Loan on a manufactured home, I have some information that you’ll need to know.
 
