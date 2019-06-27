@@ -25,7 +25,7 @@ blogger_orig_url: 'http://www.thevaloanguy.com/2017/08/are-va-appraisals-any-dif
 
 It doesn't cost a penny to talk….[so call me right now and I will answer your questions\!](http://texas-vet-loans.com/contact/)
 
-[Apply Now](https://preapp1003.com/id/Patrick-Fitzgerald/)
+[Apply Now](https://academymortgage.com/about-us/apply-now){: target="_blank"}
 
 I get a lot of calls about this with lots of questions about the VA appraisal and how it’s different from conventional appraisals. An appraisal is an estimated value of a property done by a licensed appraiser. **One thing to remember is that VA appraisals are not that much different from a conventional appraisal.**
 
