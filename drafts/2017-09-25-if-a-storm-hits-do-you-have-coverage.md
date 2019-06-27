@@ -9,15 +9,15 @@ excerpt: >-
   insurance is a separate policy from homeowners insurance. Here’s what you need
   to know.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2017/September/The+VA+Loan+Guy-+If+a+Storm+Hits%252C+Do+You+Have+Coverage%253F.mp4
+  https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+If+a+Storm+Hits%2C+Do+You+Have+Coverage_.mp4
 pullquote: >-
   Don’t wait until you see the hurricane coming before you think about your
   coverage.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/flood-insurance-email-3.jpg
-youtube_code: k91uwgtQhTc
+youtube_alternate_image: /uploads/if-a-storm-hits-email.jpg
+youtube_code: CykDyRkkFBs
 ---
 
 {% include youtube.html %}
