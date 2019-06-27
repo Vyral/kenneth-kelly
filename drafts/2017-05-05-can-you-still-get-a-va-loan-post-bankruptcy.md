@@ -1,31 +1,31 @@
 ---
-youtube_code: vn9tLabktII
+youtube_code: WrqGsNfIDw0
 excerpt:
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/The+VA+Loan+Guy-+Veterans+financing+post-bankruptcy.mp4
+  https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Veterans+Financing+Post-Bankruptcy.mp4
 pullquote: >-
   YOU ARE STILL ELIGIBLE FOR A VA LOAN, BUT ONLY AFTER A CERTAIN AMOUNT OF TIME
   HAS PASSED.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/patrick-fitzgerald-8-3-2016-4-of-4-email-1.jpg
+youtube_alternate_image: /uploads/post-bankruptcy-email.jpg
 layout: post
 title: Can You Still Get a VA Loan Post-Bankruptcy?
 date: 2017-05-05 20:25:00
 author: Vyral Admin
 tags:
 modified_time:
-thumbnail: 'https://i.ytimg.com/vi/vn9tLabktII/default.jpg'
+thumbnail: /uploads/post-bankruptcy-email.jpg
 blogger_id: 'tag:blogger.com,1999:blog-4130350860975241153.post-7303511831714311107'
 blogger_orig_url: 'http://www.thevaloanguy.com/2017/05/can-you-still-get-va-loan-post.html'
 ---
 
 {% include youtube.html %}If you had a bankruptcy in the past and it involved a home that you used a VA loan to purchase, you haven’t lost your eligibility. Here’s the situation you’ll face instead.
 
-It doesn't cost a penny to talk….[so call me right now and I will answer your questions!](http://texas-vet-loans.com/contact/)
+It doesn't cost a penny to talk….[so call me right now and I will answer your questions\!](http://texas-vet-loans.com/contact/)
 
-[Apply Now](https://preapp1003.com/id/Patrick-Fitzgerald/)
+[Apply Now](https://academymortgage.com/about-us/apply-now){: target="_blank"}
 
 If you’ve had a bankruptcy in the past and it involved a home you used a VA loan to finance—have you lost your eligibility?
 
