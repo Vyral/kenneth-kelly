@@ -1,20 +1,20 @@
 ---
-youtube_code: F-jBDQXlwXE
-excerpt:
+youtube_code: '-OoeK3E5IwA'
+excerpt: '“Pat, I have used my VA loan to buy a home in the past, can I use it again?”'
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/The+VA+Loan+Guy-+Can+You+Have+Two+VA+Loans+at+Once%253F.mp4
+  https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Can+You+Have+Two+VA+Loans+at+Once_.mp4
 pullquote: THE SIMPLE ANSWER IS ABSOLUTELY YES.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/patrick-fitzgerald-screenshot-template-1.jpg
+youtube_alternate_image: /uploads/two-va-loans-email.jpg
 layout: post
 title: Answering Some Common VA Loan Questions
 date: 2017-04-06 19:49:00
 author: Vyral Admin
 tags:
 modified_time:
-thumbnail: 'https://i.ytimg.com/vi/F-jBDQXlwXE/default.jpg'
+thumbnail: /uploads/two-va-loans-email.jpg
 blogger_id: 'tag:blogger.com,1999:blog-4130350860975241153.post-5975119033197473149'
 blogger_orig_url: >-
   http://www.thevaloanguy.com/2017/04/answering-some-common-va-loan-questions.html
@@ -22,9 +22,9 @@ blogger_orig_url: >-
 
 {% include youtube.html %}I get a lot of questions about VA loans and the eligibility restrictions. Can you use a second VA loan? Can you rent a home purchased with a VA loan? Find out here.
 
-It doesn't cost a penny to talk….[so call me right now and I will answer your questions!](http://texas-vet-loans.com/contact/)
+It doesn't cost a penny to talk….[so call me right now and I will answer your questions\!](http://texas-vet-loans.com/contact/)
 
-[Apply Now](https://preapp1003.com/id/Patrick-Fitzgerald/)
+[Apply Now](https://academymortgage.com/about-us/apply-now){: target="_blank"}
 
 I’ve been getting a lot of questions lately from people, which is great. I wanted to answer a few of them today. One of the most common questions I get asked about VA loans goes like this: **“Pat, I have used my VA loan to buy a home in the past, can I use it again?”**
 
