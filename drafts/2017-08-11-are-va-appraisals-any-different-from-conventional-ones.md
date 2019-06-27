@@ -1,28 +1,29 @@
 ---
-youtube_code: pf4WvUqBePM
-excerpt:
-enclosure:
+youtube_code: ew1E4vNbQww
+excerpt: What is the VA appraisal and how it’s different from conventional appraisals.
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Are+VA+Appraisals+Any+Different+from+Conventional+Ones_.mp4
 pullquote: >-
   THE VA DOESN’T NECESSARILY NEED A BRAND NEW HOME, BUT THEY WANT TO MAKE SURE
   THAT THE HOME IS IN SOUND CONDITION FOR THE VETERAN.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/appraisals-email-1.jpg
+youtube_alternate_image: /uploads/va-appraisals-email-2.jpg
 layout: post
 title: Are VA Appraisals Any Different from Conventional Ones?
 date: 2017-08-11 20:45:00
 author: Vyral Admin
 tags:
 modified_time:
-thumbnail: /uploads/va-appraisals-email-1.jpg
+thumbnail: /uploads/va-appraisals-email-2.jpg
 blogger_id: 'tag:blogger.com,1999:blog-4130350860975241153.post-2472622385336044348'
 blogger_orig_url: 'http://www.thevaloanguy.com/2017/08/are-va-appraisals-any-different-from.html'
 ---
 
 {% include youtube.html %}Today I wanted to talk about VA appraisals and how they differ from conventional appraisals.
 
-It doesn't cost a penny to talk….[so call me right now and I will answer your questions!](http://texas-vet-loans.com/contact/)
+It doesn't cost a penny to talk….[so call me right now and I will answer your questions\!](http://texas-vet-loans.com/contact/)
 
 [Apply Now](https://preapp1003.com/id/Patrick-Fitzgerald/)
 
