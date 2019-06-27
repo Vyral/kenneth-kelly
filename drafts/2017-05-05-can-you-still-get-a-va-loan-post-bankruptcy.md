@@ -1,6 +1,8 @@
 ---
 youtube_code: WrqGsNfIDw0
-excerpt:
+excerpt: >-
+  If you’ve had a bankruptcy in the past and it involved a home you used a VA
+  loan to finance—have you lost your eligibility?
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Veterans+Financing+Post-Bankruptcy.mp4
 pullquote: >-
