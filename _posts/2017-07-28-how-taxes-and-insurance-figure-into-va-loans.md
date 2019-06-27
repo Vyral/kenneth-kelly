@@ -26,7 +26,7 @@ blogger_orig_url: >-
 
 It doesn't cost a penny to talk….[so call me right now and I will answer your questions\!](http://texas-vet-loans.com/contact/)
 
-[Apply Now](https://preapp1003.com/id/Patrick-Fitzgerald/)
+[Apply Now](https://academymortgage.com/about-us/apply-now){: target="_blank"}
 
 Today I wanted to talk about taxes and insurance and how they figure into a VA loan. I get this question from both veterans and real estate agents alike.
 
