@@ -1,9 +1,10 @@
 ---
 youtube_code: DRT3ZWHH74k
 excerpt: >-
-  https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+How+veterans+financing+works.mp4
+  The anatomy of a VA loan features four components: principal, interest,
+  property taxes, and homeowners insurance.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/The+VA+Loan+Guy-+How+veterans+financing+works.mp4
+  https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+How+veterans+financing+works.mp4
 pullquote: 'A VA LOAN ALLOWS YOU TO BORROW UP TO $424,000 WITH NO DOWN PAYMENT.'
 enclosure_type: video/mp4
 enclosure_time:
