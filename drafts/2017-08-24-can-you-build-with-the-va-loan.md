@@ -1,27 +1,27 @@
 ---
-youtube_code: LP4F5sXjzYg
-excerpt:
+youtube_code: ESYaARibMI8
+excerpt: 'If you’ve got land, can you use your VA loan to build on it?'
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2017/August/The+VA+Loan+Guy-+Can+You+Build+With+the+VA+Loan%253F.mp4
+  https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Can+You+Build+With+the+VA+Loan_.mp4
 pullquote: THE FUNDS FROM THIS 30-YEAR VA LOAN WILL PAY OFF THE CONSTRUCTION LOAN.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/build-on-land-with-va-email-1.jpg
+youtube_alternate_image: /uploads/build-with-a-va-email.jpg
 layout: post
 title: Can You Build With the VA Loan?
 date: 2017-08-24 18:55:00
 author: Vyral Admin
 tags:
 modified_time:
-thumbnail: /uploads/building-with-va-email-1.jpg
+thumbnail: /uploads/build-with-a-va-email.jpg
 blogger_id: 'tag:blogger.com,1999:blog-4130350860975241153.post-834272188866665354'
 blogger_orig_url: 'http://www.thevaloanguy.com/2017/08/can-you-build-with-va-loan.html'
 ---
 
 {% include youtube.html %}Can you use a VA loan to build on land you own? Of course you can.
 
-It doesn't cost a penny to talk….[so call me right now and I will answer your questions!](http://texas-vet-loans.com/contact/)
+It doesn't cost a penny to talk….[so call me right now and I will answer your questions\!](http://texas-vet-loans.com/contact/)
 
 [Apply Now](https://preapp1003.com/id/Patrick-Fitzgerald/)
 
