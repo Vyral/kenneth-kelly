@@ -1,20 +1,22 @@
 ---
-youtube_code: _58kszftDUo
-excerpt:
+youtube_code: VFdcI-rsLic
+excerpt: >-
+  I’m a loan officer here at Guild Mortgage in San Antonio and a mortgage
+  expert.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/The+VA+Loan+Guy-+My+specialty+is+military+loans.mp4
+  https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+My+Specialty+Is+Military+Loans.mp4
 pullquote: IT DOESN’T COST A THING TO TALK TO ME ON THE PHONE.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/patrick-fitzgerald-8-3-2016-3-of-4-email-3.jpg
+youtube_alternate_image: /uploads/my-specialty-is-military-loans-email.jpg
 layout: post
 title: I Specialize in Working with Military Clients
 date: 2017-03-16 18:31:00
 author: Vyral Admin
 tags:
 modified_time:
-thumbnail: 'https://i.ytimg.com/vi/_58kszftDUo/default.jpg'
+thumbnail: /uploads/my-specialty-is-military-loans-email.jpg
 blogger_id: 'tag:blogger.com,1999:blog-4130350860975241153.post-3587739444376828876'
 blogger_orig_url: 'http://www.thevaloanguy.com/2017/03/i-specialize-in-working-with-military.html'
 ---
@@ -23,7 +25,7 @@ blogger_orig_url: 'http://www.thevaloanguy.com/2017/03/i-specialize-in-working-w
 
 It doesn't cost a penny to talk….[so call me right now and I will answer your questions\!](http://texas-vet-loans.com/contact/)
 
-[Apply Now](https://preapp1003.com/id/Patrick-Fitzgerald/)
+[Apply Now](https://academymortgage.com/about-us/apply-now){: target="_blank"}
 
 I’m a loan officer here at Guild Mortgage in San Antonio and a mortgage expert. Although I do offer conventional, FHA, and all other different types of loans, **my specialty is helping military personnel with their home loan needs.** I’ve been doing this for the past 15 years.
 
