@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why You Can’t Quit Your Job During the Loan Process
-date: 2019-07-11 14:36:17
+date: 2019-07-11 14:36:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -25,8 +25,8 @@ I’m doing an FHA loan right now for a wonderful client. **We contacted her emp
 
 {% include pullquote.html %}
 
-**It was a big deal, and here's why.** Under FHA and VA loan guidelines, we need to have 30 days worth of paystubs at their new job to verify their income. Her contract was supposed to close on July 5, but now we’re going to have to delay it for a month or so.&nbsp;
+**It was a big deal, and here's why.** Under FHA and VA loan guidelines, we need to have 30 days' worth of paystubs at their new job to verify their income. Her contract was supposed to close on July 5, but now we’re going to have to delay it for a month or so.&nbsp;
 
 It’s causing all kinds of tension with the seller, the buyer, and their Realtors. **If she would have contacted us before quitting, we would have advised her to wait about a month until the property closed to start her new job.**
 
-If you’re contemplating a job change, even if it’s higher paying and a better job, try to wait until your loan is closed. If you have any questions for me or know anyone in a situation like this, don’t hesitate to reach out and give me a call or send me an email. I’d be happy to help.
+If you’re contemplating a job change, even if it’s higher-paying, better job, try to wait until your loan is closed. If you have any questions for me or know anyone in a situation like this, don’t hesitate to reach out and give me a call or send me an email. I’d be happy to help.
