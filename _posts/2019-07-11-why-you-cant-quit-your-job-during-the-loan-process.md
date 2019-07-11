@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/don-t-quit-your-job-email.jpg
-youtube_code: dDk0fUXtMCo
+youtube_code: EotrBHGpnTE
 ---
 
 {% include youtube.html %}
