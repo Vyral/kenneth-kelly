@@ -48,7 +48,8 @@ sidebar_CTA:
       your application whenever it is convenient for you. And, you can always
       save your work and come back and complete it later if you need to.
     CTA_link_text: Apply Now
-    CTA_url: 'https://preapp1003.com/id/Patrick-Fitzgerald/'
+    CTA_url: >-
+      https://mobile.academymortgage.com/borrower/signup/pat.fitzgerald@academymortgage.com
 lender:
   show_section: false
   header_text: Preferred Lender
