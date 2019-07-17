@@ -39,7 +39,8 @@ CTAs:
   first_CTA_URL: >-
     https://mobile.academymortgage.com/borrower/signup/pat.fitzgerald@academymortgage.com
   second_CTA_text: Apply Now
-  second_CTA_URL: 'https://preapp1003.com/id/Patrick-Fitzgerald/'
+  second_CTA_URL: >-
+    https://mobile.academymortgage.com/borrower/signup/pat.fitzgerald@academymortgage.com
 emma_form:
 sidebar_CTA:
   - CTA_image_path: /uploads/bigstock-mortgage-online-application-fo-296882188.jpg
