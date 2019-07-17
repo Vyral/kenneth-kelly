@@ -36,7 +36,8 @@ client:
   url: 'https://academymortgage.com'
 CTAs:
   first_CTA_text: Apply Now
-  first_CTA_URL: 'https://preapp1003.com/id/Patrick-Fitzgerald/'
+  first_CTA_URL: >-
+    https://mobile.academymortgage.com/borrower/signup/pat.fitzgerald@academymortgage.com
   second_CTA_text: Apply Now
   second_CTA_URL: 'https://preapp1003.com/id/Patrick-Fitzgerald/'
 emma_form:
