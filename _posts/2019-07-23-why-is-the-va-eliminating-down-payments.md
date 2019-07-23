@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Is the VA Eliminating Down Payments?
-date: 2019-07-23 15:20:22
+date: 2019-07-23 15:20:00
 tags:
   - Home Buyer Tips
 excerpt: There’s a big change coming to VA financing. Here’s what you need to know.
@@ -11,7 +11,7 @@ pullquote: This is a cool program we’re excited to learn more about.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/eliminating-down-payments-youtube.jpg
+youtube_alternate_image: /uploads/eliminating-down-payments-email.jpg
 youtube_code: WrgsbycTLgM
 ---
 
