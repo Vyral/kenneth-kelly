@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Is a One-Time Close?
-date: 2019-09-12 17:00:24
+date: 2019-09-12 17:00:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -19,7 +19,7 @@ youtube_code: Vcab_iuDSYE
 
 {% include youtube.html %}
 
-A one-time close, or OTC, happens when a homebuyer wants to build a home on land they own, but need a construction loan in order to fund the build. When the home is finished, then we create the 30-year mortgage to get them on down the road with it.
+A one-time close, or OTC, happens when a homebuyer wants to build a home on land they own, but needs a construction loan in order to fund the build. When the home is finished, then we create the 30-year mortgage to get them on down the road with it.
 
 The one-time close has many benefits. **It pays off the land if you owe money on it, it provides funds to the builder to construct the home, and it builds in a 10% variant to accommodate any potential budget shortfalls.**
 
