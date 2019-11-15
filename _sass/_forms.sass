@@ -33,7 +33,6 @@ form
 	input, textarea
 		width: 100%
 		border: 1px solid $form-border-color
-		@include transition(0.3s)
 	&:focus
 		@include placeholder
 		color: transparent
@@ -43,17 +42,10 @@ form
 		font-size: 1.5rem
 		padding: 1rem
 		border: 3px solid $brand
-		border-radius: 5px
 		&:hover
-			background: $light-text
-			color: $brand-light
-			box-shadow: 4px 4px 0 $brand-light
-			border: 2px solid $brand-light
-			@include transform(scale(1.05))
-			@include transform(translateY(-0.2rem))
-		&:active
-			box-shadow: 0 0 0 $brand
-			@include transform(translateY(0rem))
+			background: #fff
+			color: $brand
+			border: 1px solid $brand
 
 .contact
 	font-size: 24px

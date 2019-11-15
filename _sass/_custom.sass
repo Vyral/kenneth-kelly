@@ -56,13 +56,12 @@
 	border-radius: $button-radius
 	@include transition(0.3s)
 	&:hover
-		background: transparent
-		color: $brand-light
-		box-shadow: 4px 4px 0 $brand-light
+		background: $brand
+		color: #fff
+		border: 1px solid $brand
 		@include transform(scale(1.05))
 		@include transform(translateY(-0.2rem))
 	&:active
-		box-shadow: 0 0 0 $brand-light
 		@include transform(translateY(0rem))
 
 #about-slogan

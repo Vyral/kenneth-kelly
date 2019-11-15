@@ -1,14 +1,22 @@
 audit_header: false
-title: Dublin Real Estate Video Blog with Kenneth Kelly
+title: Technology Solutions for Property Professionals
 description: Our mission at 4Property is to be your best resource for Dublin real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The 4Property, your professional Dublin Real Estate Agents.
-show_custom_links: false
+show_custom_links_new_tab: false
 custom_links:
   - title:
     url:
-show_custom_links_new_tab: false
-custom_links_new_tab:
-  - title:
+show_custom_links: true
+custom_links:
+  - title: Join iPPi
     url:
+  - title: Events
+    url:
+  - title: Webinar
+    url:
+  - title: Free Consultation Call
+    url: /consultation-call/
+  - title: Monthly Newsletter
+    url: /newsletter/
 
 client:
   name: Kenneth Kelly
@@ -36,18 +44,18 @@ CTAs:
   second_CTA_URL: /
 
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "What’s Your Dublin Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+  - CTA_image_path: /img/cta-images/001.png
+    CTA_title: "Property Appraisals, Valuations & Market Intelligence"
+    CTA_text: "By matching & referencing house transactions on the Property Price register with any historical reference to these properties online iPPi brings a new level of understanding & context to the housing market in Ireland."
+    CTA_link_text: "Learn More"
+    CTA_url: https://www.4property.com/ippi/
 
-second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Looking for a Dublin Home?"
-    CTA_text2: "Search the entire MLS for your Dublin home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: /
+# second_sidebar_CTA:
+#   - CTA_image_path2: /img/cta-images/002.jpg
+#     CTA_title2: "Looking for a Dublin Home?"
+#     CTA_text2: "Search the entire MLS for your Dublin home."
+#     CTA_link_text2: "Search the MLS"
+#     CTA_url2: /
 
 lender:
   show_section: false
@@ -87,7 +95,7 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 60
   hero_text: Dublin Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
