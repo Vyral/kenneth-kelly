@@ -8,11 +8,11 @@ custom_links:
 show_custom_links: true
 custom_links:
   - title: Join iPPi
-    url:
+    url: /
   - title: Events
-    url:
+    url: /
   - title: Webinar
-    url:
+    url: /
   - title: Free Consultation Call
     url: /consultation-call/
   - title: Monthly Newsletter
