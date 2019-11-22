@@ -1,8 +1,25 @@
 show_testimonials_section: true
 testimonial:
-  - quote: "We have been using iPPi for a number of months now and find it to be an invaluable tool for finding comparables for valuations. We provide an auction service nationwide for over 200 agents at present, so as you can imagine, we have a variety of properties available for sale. This website helps us to be more efficient with our time in gathering comparables as the comparable properties information, is readily available on the iPPi website. It cuts the time in half! I would highly recommend this to anyone in the industry and the support from Ciaran and the team is excellent!"
-    name: Shane May – Iam Sold
-
+  - quote: "iPPi is a fantastic service. Reduces the time spent looking for comparables with its easy step by step system."
+    name: Eoghan O’Hara, REA Grimes
+    pullquote: Fantastic service!
 
   - quote: "We heard about iPPi through IPAV. Having tailed it for 1 month, we now use it every day. As we are on the bank valuations panel for EBS, Haven, AIB and Ulster Bank, we find it a great tool for valuations. We have also used it for sales valuations with phenomenal results, as the iPPi tool, produces a magnificent valuation appraisal with comparables, maps, photos of the property and most of all our company logo. Having trialed all of the other valuation tools, we have decided to choose iPPi for its simplicity, accurate information and professional valuation appraisals"
     name: Stafford Tyrrell – Fenelon Properties
+    pullquote: Simplicity, accurate information and professional valuation appraisals!
+
+  - quote: "We have been using iPPi for a number of months now and find it to be an invaluable tool for finding comparables for valuations. We provide an auction service nationwide for over 200 agents at present, so as you can imagine, we have a variety of properties available for sale. This website helps us to be more efficient with our time in gathering comparables as the comparable properties information, is readily available on the iPPi website. It cuts the time in half! I would highly recommend this to anyone in the industry and the support from Ciaran and the team is excellent!"
+    name: Shane May, Iam Sold
+    pullquote: It cuts the time in half!
+
+  - quote: "The iPPi platform is an extremely valuable resource in terms of its accuracy, ease of use and reporting when researching comparable sales. I would have no hesitation in recommending it for both the professional valuer and those involved in residential sales."
+    name: Derek Casey, REA Brophy Farrell
+    pullquote: Extremely valuable resource!
+
+  - quote: "We have been using iPPi for a few months now. I can honestly say it’s very easy to use, full of information that no other site offers. We use iPPi on a daily basis for valuations, comparable, etc and find it brilliant."
+    name: Chase Nouri, French Estates
+    pullquote: We find it brilliant!
+
+  - quote: "We have found iPPi to be hugely beneficial to our business. The in-depth insights into each location and property type really help us give our clients quality advise and saves us time in gathering all the information. Great to have it all in one place! Excellent customer service too."
+    name: Ian Hopkins, Hopkins Ward
+    pullquote: Hugely beneficial to our business!

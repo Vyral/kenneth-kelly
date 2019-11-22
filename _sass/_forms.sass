@@ -1,6 +1,7 @@
 form
 	label
-		display: block
+		display: inline-block
+		width: 40%
 
 	textarea
 		display: block
@@ -29,26 +30,75 @@ form
 
 .contact-form
 	width: 75%
-	margin-left: 13%
-	input, textarea
-		width: 100%
-		border: 1px solid $form-border-color
+	margin-left: 18%
+	input
+		width: 40%
+		border: 1px solid #999
+		margin: 10px
+	textarea
+		width: 82%
+		border: 1px solid #999
+		margin: 10px 10px 30px
+		height: 38px !important
 	&:focus
 		@include placeholder
 		color: transparent
-	textarea
-		height: 15rem
 	input[type="submit"]
 		font-size: 1.5rem
 		padding: 1rem
 		border: 3px solid $brand
+		width: unset
+		float: right
+		margin-right: 20%
 		&:hover
 			background: #fff
 			color: $brand
 			border: 1px solid $brand
 
+@media(max-width: 767px)
+	.contact-form
+		margin-left: 5%
+		input
+			width: 100%
+		textarea
+			width: 100%
+
+
+.consultation
+	background-color: $theme
+	padding: 6rem 0
+	margin-top: -2px
+	p
+		font-size: 18px
+		color: #fff
+	input
+		width: 79%
+		height: 50px
+		border-radius: 0px
+		border: none!important
+	input[type="submit"]
+		font-size: 18px
+		width: 20%
+		border-radius: 0px
+		margin: 0 0 0 -3px
+
+
+.asterisk
+	color: $brand
+	letter-spacing: 1px
+
 .contact
-	font-size: 24px
-	margin-bottom: 20px
-	margin-left: 13%
-	margin-top: 20px
+	font-size: 22px
+	margin: 20px auto
+	display: block
+	width: 64%
+
+\::placeholder
+	color: $brand
+	opacity: 1
+
+\:-ms-input-placeholder
+	color: $brand
+
+\::-ms-input-placeholder
+	color: $brand

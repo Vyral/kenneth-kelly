@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Dublin Real Estate Podcast with Kenneth Kelly</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://localhost:4000</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://localhost:4000"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from 4Property - your professional Dublin Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Kenneth Kelly</managingEditor>
-    <lastBuildDate>2019-11-15 11:06:42 -0600</lastBuildDate>
+    <lastBuildDate>2019-11-22 13:24:31 -0600</lastBuildDate>
     <media:copyright>Kenneth Kelly</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Dublin, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,7 +18,7 @@
     </itunes:owner>
     <itunes:author>Kenneth Kelly</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://localhost:4000/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Dublin, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Dublin Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from 4Property - your professional Dublin Real Estate Agents.</itunes:summary>
@@ -26,7 +26,7 @@
     
       <item>
         <title>test test</title>
-        <link>localhost:4000/test-test.html</link>
+        <link>http://localhost:4000/test-test.html</link>
         
           <category>Market Update</category>
         
@@ -52,7 +52,7 @@ Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper 
 Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
@@ -63,7 +63,7 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
       
       <item>
         <title>test  test test</title>
-        <link>localhost:4000/test-test-test.html</link>
+        <link>http://localhost:4000/test-test-test.html</link>
         
           <category>Market Update</category>
         
@@ -89,7 +89,7 @@ Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper 
 Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
@@ -100,7 +100,7 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
       
       <item>
         <title>this is a test post</title>
-        <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
+        <link>http://localhost:4000/this-is-a-test-post-copy-2.html</link>
         
           <category>Market Update</category>
         
@@ -126,7 +126,7 @@ Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper 
 Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
@@ -137,7 +137,7 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
       
       <item>
         <title>A Fox in Space</title>
-        <link>localhost:4000/a-fox-in-space.html</link>
+        <link>http://localhost:4000/a-fox-in-space.html</link>
         
           <category>Market Update</category>
         
@@ -179,7 +179,7 @@ Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper 
 Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>

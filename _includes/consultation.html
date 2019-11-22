@@ -1,0 +1,31 @@
+<div class="container-fluid consultation">
+
+<div class="col-sm-3 col-sm-offset-3">
+	<p>Sign up to receive our latest articles on modernising the property industry</p>
+</div>
+
+
+<div class="col-sm-3">
+	<form method="post" class="consultation-form" action="https://formspree.io/{{site.data.settings.client.email}}" onsubmit="return setReturn()">
+
+		<input type="email" name="email" placeholder="E-mail Address" required>
+		<input class="submit" type="submit" value="Go!" name="submitconsultations" />
+
+  <div class="hidden">
+		<input type="hidden" name="_to" value="{{site.data.settings.client.email}}">
+		<input type="hidden" name="_subject" value="Consultation Request From Your Vyral Video Blog">
+		<input type="text" name="_gotcha">
+	</div>
+
+	</form>
+</div>
+
+<div class="row">
+
+	<div class="col-sm-6 col-sm-offset-3">
+		<p class="disclaimer-dark">By submitting your information, you are agreeing to recieve updates, tips and tricks from 4Property.<br>You will always be given the right to unsubscribe at any point in the future.</p>
+	</div>
+
+</div>
+
+</div>

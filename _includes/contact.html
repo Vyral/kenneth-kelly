@@ -1,39 +1,22 @@
 <address class="contact">
-  <strong>{{site.data.settings.client.name}}</strong>
-  {% if site.data.settings.client.brand and site.data.settings.client.brokerage == null %}
-    <br>
-    {{site.data.settings.client.address}}
-    <br>
-  {% elsif site.data.settings.client.brand == null %}
-    <br>
-    {{site.data.settings.client.brokerage}}
-    <br>
-    {{site.data.settings.client.address}}
-    <br>
-  {% elsif site.data.settings.client.brokerage == null %}
-    <br>
-    {{site.data.settings.client.brand}}
-    <br>
-    {{site.data.settings.client.address}}
-    <br>
-  {% else %}
-    <br>
-    {{site.data.settings.client.brand}}
-    <br>
-    {{site.data.settings.client.brokerage}}
-    <br>
-    {{site.data.settings.client.address}}
-    <br>
-  {% endif %}
-  <a href="tel:1-{{site.data.settings.client.phone}}">{{site.data.settings.client.phone}}</a>
-  <br>
-  <a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a>
+  <h3>Book a Call With Us</h3>
+  <p class="subtitle">Please complete the details below and one of our representatives will be in touch to book you in for a quick 20 minute discovery call with us about what we do and how we help 1000's of estate and letting agents</p>
 </address>
 
 <form class="contact-form" method="post" action="http://formspree.io/{{site.data.settings.client.email}}">
-  <input type="text" name="name" placeholder="Name" required>
-  <input type="email" name="_replyto" placeholder="Email" required>
-  <textarea name="Message" placeholder="Message"></textarea>
+  <!-- <label for="firstname">First Name<span class="asterisk"> (*)</span></label><br> -->
+  <input type="text" name="firstname" placeholder="First Name *" required>
+
+  <!-- <label for="surname">Surname<span class="asterisk"> (*)</span></label><br> -->
+  <input type="text" name="surname" placeholder="Surname *" required>
+
+
+  <input type="email" name="_replyto" placeholder="Email *" required>
+
+  <input type="text" name="phone" placeholder="Phone Number *" required>
+
+
+  <textarea name="Company Name" placeholder="Company Name"></textarea>
   <!-- Cloud cannon settings field -->
   <div class="hidden">
     <input type="hidden" name="_to" value="{{site.data.settings.client.email}}">
@@ -41,5 +24,9 @@
     <input type="text" name="_gotcha">
   </div>
 
+<p class="disclaimer">By submitting your information, you are agreeing to recieve updates, tips and tricks from 4Property.<br>You will always be given the right to unsubscribe at any point in the future.</p>
+
   <input type="submit" value="submit">
 </form>
+
+<div class="whitespace"></div>

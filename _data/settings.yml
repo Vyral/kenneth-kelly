@@ -8,24 +8,24 @@ custom_links:
 show_custom_links: true
 custom_links:
   - title: Join iPPi
-    url: /
+    url: https://ippi.4property.com/app/#/register
   - title: Events
-    url: /
-  - title: Webinar
-    url: /
+    url: /events/
   - title: Free Consultation Call
     url: /consultation-call/
   - title: Monthly Newsletter
     url: /newsletter/
+  - title: Tips & Tricks
+    url: /tips-and-tricks/
 
 client:
   name: Kenneth Kelly
   title:
   license_number:
   about_markdown: |
-    For 20 years, 4Property (formerly 4PM) has been providing technology solutions specifically for the property industry and currently deals with over 25% of the Estate & Letting Agent offices across Ireland. Over 200 offices with over 600 Individual Agents use Acquaint CRM on a daily basis with 4Property providing a full service of installation, migration of legacy data, training and support from our Dublin based office.
+    iPPi Ireland’s Independent Property Price Register has been developed in conjunction with UCD’s Analytics department and over 200 Agents, Valuers and Business owners across Ireland.
 
-    4Property have also designed, developed & hosted hundreds of Estate Agent websites since 2000. In 2018, in response to change in user behaviour with the move to mobile, 4Property launched Design Bricks. This service utilizes specially in-house built templates that are super-light yet provide all the functionality of a modern property website.
+    iPPi uses elastic search to match and reference house transactions on the Property Price register with any historical reference to these properties online. iPPi brings a new level of understanding and context to the housing market in Ireland.
   brand: 4Property
   brokerage:
   market: Dublin
@@ -95,14 +95,14 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 60
-  hero_text: Dublin Real Estate Video Blog
+  logo_width_number: 20
+  hero_text: Better Valuations in Minutes
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 
 site_colors:
-  brand_color: '#f54042'
+  brand_color: '#F51088'
   theme_color: '#0c0d34'
   accent_color: '#e40c90'
   theme_text_color: '#5d9bd3'

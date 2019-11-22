@@ -10,8 +10,10 @@
 		      {% for item in site.data.testimonials.testimonial %}
 
 						<div class="item-container">
+
 							<div class="item">
 								<div id="item-truncated">
+								{{item.pullquote | prepend: '<h3 class="testimonial-pullquote">' | append: '</h3>'}}
 		            {{item.quote | prepend: '<p class="testimonial">' | append: '</p>' | truncate: 300 }}
 								{% if item.quote.size >= 296 %}
 									<p class="expand item-toggle">Show More <i class="fa fa-plus-square-o expand"></i></p>
