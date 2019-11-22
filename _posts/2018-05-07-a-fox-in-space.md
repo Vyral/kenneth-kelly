@@ -8,12 +8,10 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
-title: A Fox in Space
+title: Tips and Tricks Test
 date: 2018-05-07
 tags:
-  - Market Update
-  - Real Estate
-  - Home Seller Tips
+  - Tips and Tricks
 excerpt: 'Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.'
 enclosure:
 pullquote: This is an example of a pull quote

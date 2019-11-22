@@ -1514,10 +1514,10 @@ label.tree-toggle {
     font-size: 3rem; } }
 @media (max-width: 1000px) {
   .site-logo {
-    max-width: 20rem; } }
+    max-width: 10rem; } }
 @media (max-width: 760px) {
   .site-logo {
-    max-width: 20rem;
+    max-width: 10rem;
     margin-top: 3rem; }
 
   .site-title {
@@ -1527,7 +1527,7 @@ label.tree-toggle {
     font-size: 2rem; } }
 @media (max-width: 600px) {
   .site-logo {
-    max-width: 15rem;
+    max-width: 10rem;
     margin-top: 2rem; }
 
   .site-title {
@@ -2652,7 +2652,7 @@ form select {
   margin-left: 6rem; }
 
 .disclaimer-dark {
-  font-size: 14px;
+  font-size: 16px !important;
   margin-top: 3rem;
   text-align: center; }
 
