@@ -11,8 +11,6 @@ custom_links:
     url: https://ippi.4property.com/app/#/register
   - title: Events
     url: /events/
-  - title: Free Consultation Call
-    url: /consultation-call/
   - title: Monthly Newsletter
     url: /newsletter/
   - title: Tips & Tricks
@@ -26,7 +24,7 @@ client:
     iPPi Ireland’s Independent Property Price Register has been developed in conjunction with UCD’s Analytics department and over 200 Agents, Valuers and Business owners across Ireland.
 
     iPPi uses elastic search to match and reference house transactions on the Property Price register with any historical reference to these properties online. iPPi brings a new level of understanding and context to the housing market in Ireland.
-  brand: 4Property
+  brand: iPPi
   brokerage:
   market: Dublin
   address: NovaUCD, Belfield Innovation Park, University College Dublin Dublin 4, Ireland
@@ -35,7 +33,7 @@ client:
   phone2:
   phone2_type:
   email: kenneth@4property.com
-  url: https://www.4property.com
+  url: https://www.4property.com/iPPi
 
 CTAs:
   first_CTA_text: Home Valuation
@@ -72,11 +70,11 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/4PropertyIreland/
-  linkedin_url: https://www.linkedin.com/company/4property/
-  youtube_url:
+  facebook_url: https://www.facebook.com/IPPiio-103206831152113
+  linkedin_url: https://www.linkedin.com/company/ippindex/
+  youtube_url: https://www.youtube.com/channel/UCnxHbg9I7pMkmZwNROOk_DQ
   twitter_url: https://twitter.com/4PropertyIE
-  instagram_url:
+  instagram_url: https://www.instagram.com/ippi.io/
   pinterest_url:
   zillow_url:
   trulia_url:
