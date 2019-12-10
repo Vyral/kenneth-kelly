@@ -18,7 +18,9 @@ youtube_code: 6kgv4p_1tAk
 
 {% include youtube.html %}
 
-Today I’m answering the common question, “What is iPPi?”
+<center><em>There is a property valuation tool that can greatly improve your estate agency business. It’s called iPPi, and here’s what it can do for you.</em></center>
+
+<br>Today I’m answering the common question, “What is iPPi?”
 
 **iPPi is a property valuation tool** that has been developed over the last two years to allow property professionals, valuers, and agents to save time, improve accuracy, and have better conversations. The key benefits of iPPi are that it saves you time, improves accuracy, and allows you to win more business. All of these are factors that will allow you to have better conversations with your clients.
 
