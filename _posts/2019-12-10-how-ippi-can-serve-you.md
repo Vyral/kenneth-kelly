@@ -3,7 +3,7 @@ layout: post
 title: How iPPi Can Serve You
 date: 2019-12-10 00:00:00
 tags:
-  - Real Estate
+  - Tips and Tricks
 excerpt: >-
   There is a property valuation tool that can greatly improve your estate agency
   business. It’s called iPPi, and here’s what it can do for you.
@@ -18,7 +18,7 @@ youtube_code: 6kgv4p_1tAk
 
 {% include youtube.html %}
 
-<center><em>There is a property valuation tool that can greatly improve your estate agency business. It’s called iPPi, and here’s what it can do for you.</em></center>
+<center><em>There is a property valuation tool that can greatly improve your estate agency business. It&rsquo;s called iPPi, and here&rsquo;s what it can do for you.</em></center>
 
 <br>Today I’m answering the common question, “What is iPPi?”
 
