@@ -17,6 +17,8 @@ custom_links:
     url: /newsletter/
   - title: Tips & Tricks
     url: /tips-and-tricks/
+  - title: Webinars
+    url: /webinars/
 show_custom_links: true
 client:
   name: Kenneth Kelly
