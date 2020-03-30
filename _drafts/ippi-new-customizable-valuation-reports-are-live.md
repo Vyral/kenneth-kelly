@@ -20,7 +20,9 @@ youtube_code: 8dNCULNPwQE
 
 {% include youtube.html %}
 
-iPPi is an all-in-one property price, market data, and valuations platform. We centralize all available property data to create the cleanest, most current and most comprehensive property transaction database to property professionals all across Ireland. Today I’m going to create an appraisal, demonstrate some new features we’ve added over the last few weeks, and share what’s to come.
+<center><em>Step by step, I’ll show you what it takes to generate a highly informative market report using iPPi.</em></center>
+
+<br>iPPi is an all-in-one property price, market data, and valuations platform. We centralize all available property data to create the cleanest, most current and most comprehensive property transaction database to property professionals all across Ireland. Today I’m going to create an appraisal, demonstrate some new features we’ve added over the last few weeks, and share what’s to come.
 
 Follow along at **0:39** as I create a new report and use the feature which allows you title reports whichever you please (here I use, “Valuation Report Mr. Smith). This is Step 1: Property Particulars.
 
