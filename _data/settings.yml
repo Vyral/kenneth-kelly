@@ -45,7 +45,7 @@ client:
   phone2:
   phone2_type:
   email: ippi@4property.com
-  url: 'https://ippi.io/'
+  url: 'https://ippi.io'
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: /homevalue/
