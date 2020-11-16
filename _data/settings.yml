@@ -52,12 +52,12 @@ CTAs:
   second_CTA_URL: /
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.png
-    CTA_title: 'Property Appraisals, Valuations & Market Intelligence'
+    CTA_title: Better Property Valuation in minutes
     CTA_text: >-
-      By matching & referencing house transactions on the Property Price
-      register with any historical reference to these properties online iPPi
-      brings a new level of understanding & context to the housing market in
-      Ireland.
+      iPPi, a new wave technology company in Dublin. iPPi is an all-one Property
+      Analytics Data Platform that provides market intelligence and analytics to
+      anyone connected to the property industry, Providing in-depth, micro, and
+      macro analysis on the property market.
     CTA_link_text: Learn More
     CTA_url: 'https://www.4property.com/ippi/'
 lender:
