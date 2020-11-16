@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'iPPi: New Customizable Valuation Reports Are Live!'
+title: 'iPPi: New Customisable Valuation Reports Are Live!'
 date: 2020-03-30 00:00:00
 tags:
   - Tips and Tricks
@@ -38,6 +38,6 @@ In **Step 4: Widgets (2:42)**, you can decide what you want to show on the repor
 
 After you choose widgets, you’ll be able to generate the report **(3:12)**. You can download it and/or send it as an email attachment. You’re able to customize the cover photo to include things like your headshot and company logo.
 
-Follow along at **4:10** to check out the final product, starting with the Executive Summary (location, number of beds, size, final valuation range, and comparable properties). In addition to displaying data based on the widgets you selected earlier, there is also a discussion section, allowing you to interpret the data presented and offer some professional points of your own. The report also includes a Nearby Amenities section, wherein proximity to things like cr&eacute;ches, primary and secondary schools, parks, and restaurants are listed. Near the bottom of the report, you’ll see the new graph functionale, whereby it’s a lot easier to see the sold history and how it's performing.
+Follow along at **4:10** to check out the final product, starting with the Executive Summary (location, number of beds, size, final valuation range, and comparable properties). In addition to displaying data based on the widgets you selected earlier, there is also a discussion section, allowing you to interpret the data presented and offer some professional points of your own. The report also includes a Nearby Amenities section, wherein proximity to things like créches, primary and secondary schools, parks, and restaurants are listed. Near the bottom of the report, you’ll see the new graph functionale, whereby it’s a lot easier to see the sold history and how it's performing.
 
 I hope you’ve found this demonstration helpful. If you have questions about our latest updates or how to apply, please feel free to reach out at any time.
