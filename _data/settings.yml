@@ -24,26 +24,25 @@ client:
   title:
   license_number:
   about_markdown: >-
-    iPPi Ireland’s Independent Property Price Register has been developed in
-    conjunction with UCD’s Analytics department and over 200 Agents, Valuers and
-    Business owners across Ireland.
+    iPPi, a new wave technology company in Dublin. iPPi is an all-one Property
+    Analytics Data Platform that provides market intelligence and analytics to
+    anyone connected to the property industry, Providing in-depth, micro and
+    macro analysis on the property market.
 
 
     iPPi uses elastic search to match and reference house transactions on the
     Property Price register with any historical reference to these properties
     online. iPPi brings a new level of understanding and context to the housing
-    market in Ireland.
+    market in Ireland with over 1,350,000 property records.
   brand: iPPi
   brokerage:
   market: Dublin
-  address: >-
-    NovaUCD, Belfield Innovation Park, University College Dublin<br>Dublin 4,
-    Ireland
-  phone: 00 353 1 497 7705
-  phone_type:
+  address: 'iPPi, Nova UCD, Dublin 4, D04V2P1'
+  phone: +353 15252175
+  phone_type: +35383024 3757
   phone2:
   phone2_type:
-  email: ippi@4property.com
+  email: kenneth@iPPi.io
   url: 'https://ippi.io'
 CTAs:
   first_CTA_text: Home Valuation
