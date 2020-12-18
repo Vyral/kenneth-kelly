@@ -1,3 +1,4 @@
+---
 audit_header: false
 title: Better Property Valuation Minutes
 description: >-
@@ -18,6 +19,8 @@ custom_links:
     url: /tips-and-tricks/
   - title: Webinars
     url: /webinars/
+  - title: Podcast
+    url:
 show_custom_links: true
 client:
   name: Kenneth Kelly
@@ -151,3 +154,4 @@ buttons:
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'
+---
