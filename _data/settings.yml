@@ -18,7 +18,7 @@ custom_links:
   - title: Tips & Tricks
     url: /tips-and-tricks/
   - title: Podcast
-    url:
+    url: /ippi-insider/
 show_custom_links: true
 client:
   name: Kenneth Kelly
