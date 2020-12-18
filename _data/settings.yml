@@ -17,8 +17,6 @@ custom_links:
     url: /newsletter/
   - title: Tips & Tricks
     url: /tips-and-tricks/
-  - title: Webinars
-    url: /webinars/
   - title: Podcast
     url:
 show_custom_links: true
