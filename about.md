@@ -1,9 +1,21 @@
 ---
 layout: default
-title: About
-permalink: /about/
+title: About Us
+permalink: /about-us/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse fermentum tellus eget nisl rutrum, ac lobortis sapien bibendum. Vestibulum et purus magna. Cras imperdiet eros massa, eu volutpat ante tempus in. Vivamus congue facilisis venenatis. Donec eros augue, dignissim in ante sit amet, lobortis vestibulum diam. Donec dictum lorem facilisis tincidunt cursus. Phasellus vel eros nibh. Nullam blandit nunc tincidunt est gravida faucibus. Donec ut semper diam, non lacinia libero. Aliquam in massa quam. Nullam vitae quam arcu. Proin tincidunt consectetur nunc vel sagittis. Nulla non feugiat nibh, sed laoreet justo.
+# About Us, Our Technology & Our Tools&nbsp;
 
-Vivamus porttitor dolor ut augue condimentum ultricies. Etiam vel orci pretium, tempus nunc eget, suscipit tellus. Phasellus nibh nunc, suscipit vitae sem in, tincidunt vulputate enim. Vestibulum consectetur nulla at ligula malesuada condimentum. Vestibulum sed dui vulputate, aliquet ipsum posuere, consequat est. Sed at nisl tempor, dictum tellus ac, placerat velit. Donec in malesuada nisi. Nam tincidunt nunc mollis dolor ultricies, ut ultricies leo porttitor.
+![](/uploads/03-know-your-market.jpg){: width="2400" height="1300"}
+
+IPPI - Ireland’s Independent Property Price Register has been developed in conjunction with UCD’s Analytics department and over 200 Agents, Valuers and Business owners across Ireland.&nbsp;
+
+IPPI uses **elastic search** to match and reference house transactions on the Property Price register with any historical reference to these properties online. iPPi brings a new level of understanding and context to the housing market in Ireland.
+
+Real-time access to this data will provide property professionals with a new level of actionable data that will revolutionise the manner in which they manage their own business, monitor the competition and provide services to clients.
+
+With a comprehensive set of data going back to 2012, property professionals will be able to determine trends and current market conditions for residential property for all areas of the country from county/city level right down to village and individual street level and filter by number of bedrooms, property size and which agent is dealing or dealt with the transaction.
+
+IPPI is a unique Property Appraisal tool for agents and valuers - Providing them with rapid search, assessment and selection of comparable properties to create speedy, accurate and professionally formatted property appraisals and valuations.&nbsp;
+
+&nbsp;
